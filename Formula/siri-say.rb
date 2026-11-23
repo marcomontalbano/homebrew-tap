@@ -1,8 +1,8 @@
 class SiriSay < Formula
   desc "Speak text with any macOS voice, including the Siri voices"
   homepage "https://github.com/marcomontalbano/siri-say"
-  url "https://github.com/marcomontalbano/siri-say/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "8792fbb15ae21a849576d05588de562d44ce8b375d27b0314ad43e403d4858bf"
+  url "https://github.com/marcomontalbano/siri-say/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "2f98f067da3f955826de8fd1f1d66ba765301c1b5fabf653f046c82a02e7bd7a"
   license "MIT"
 
   depends_on :macos
